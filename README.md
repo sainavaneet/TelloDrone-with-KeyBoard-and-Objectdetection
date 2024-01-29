@@ -89,8 +89,12 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-## Acknowledgments
+## Videos 
 
+**OBJECT DETECTION : - https://youtu.be/FL7ku3DEp7o**
+
+**KEYBOARD CONTROL : https://youtu.be/IpdcT8TlTOE**
+********
 - The Tello SDK provided by DJI Ryze Robotics: [https://github.com/damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy)
 - Pre-trained object detection model: [https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
 ---
