@@ -16,7 +16,7 @@ This repo allows you to control a Tello drone using your keyboard and perform ob
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/TelloDrone-with-KeyBoard-and-Objectdetection.git
+   git clone https://github.com/sainavaneet/TelloDrone-with-KeyBoard-and-Objectdetection.git
    ```
 
 2. Install the required dependencies:
@@ -91,9 +91,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Videos 
 
-**OBJECT DETECTION : - https://youtu.be/FL7ku3DEp7o**
+### OBJECT DETECTIOIN
+[![OBJECT DETECTION](https://img.youtube.com/vi/FL7ku3DEp7o/0.jpg)](https://youtu.be/FL7ku3DEp7o)
 
-**KEYBOARD CONTROL : https://youtu.be/IpdcT8TlTOE**
+### KEYBOARD CONTROL
+[![KEYBOARD CONTROL](https://img.youtube.com/vi/IpdcT8TlTOE/0.jpg)](https://youtu.be/IpdcT8TlTOE)
+
 ********
 - The Tello SDK provided by DJI Ryze Robotics: [https://github.com/damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy)
 - Pre-trained object detection model: [https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
