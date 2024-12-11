@@ -81,13 +81,6 @@ This repo allows you to control a Tello drone using your keyboard and perform ob
 
    ```
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please create a GitHub issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Videos 
 
@@ -96,6 +89,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### KEYBOARD CONTROL
 [![KEYBOARD CONTROL](https://img.youtube.com/vi/IpdcT8TlTOE/0.jpg)](https://youtu.be/IpdcT8TlTOE)
+
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please create a GitHub issue or submit a pull request.
+
 
 ********
 - The Tello SDK provided by DJI Ryze Robotics: [https://github.com/damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy)
